@@ -1,0 +1,26 @@
+#header {
+    color: blue;
+}
+
+.paragraph {
+    background-color: yellow;
+}
+
+#arial {
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.padding-ex-1 {
+    border: 2px dotted red; 
+    padding: 50px;
+}
+
+.background {
+    background-image: url(../../htmlCssProjects/assets/lightbluedotsbackground.jpg);
+}
+
+.wrapper {
+    width: 50px;
+    height: 50px;
+}
